@@ -1,0 +1,1 @@
+window.onload = function() {console.warn("js is working!")}
